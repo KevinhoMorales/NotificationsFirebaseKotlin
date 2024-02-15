@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768942356205",
+    "project_id": "notificationsfirebasekotlin",
+    "storage_bucket": "notificationsfirebasekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768942356205:android:b344d5a3f94651b29cbee4",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.notificationsfirebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB12dzC1QQPOX9KUx9jBik0PB9FHA5ox4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
